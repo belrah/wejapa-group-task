@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet');
+.container-fluid {
+    background-color: rgb(219, 216, 216);
+}
+
+#bx-1 {
+    border-top-left-radius: 23px;
+}
+
+#bx-2 {
+    border-top-right-radius: 23px;
+}
+
+#bx-3 {
+    border-bottom-left-radius: 23px;
+}
+
+#bx-4 {
+    border-bottom-right-radius: 23px;
+}
+
+#bx-5 {
+    border-radius: 23px !important;
+}
+
+#bx-6 {
+    border-radius: 23px !important;
+}
